@@ -1,5 +1,5 @@
 <template>
-  <p class="text-red-500">Hola Mundo</p>
+  <p class="text-red-500">Hello World</p>
 </template>
 
 <script setup></script>
